@@ -1,0 +1,12 @@
+{
+  "spellcheck": true,
+  "vimMode": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "./attachments",
+  "readableLineLength": false,
+  "showFrontmatter": false,
+  "foldIndent": true,
+  "foldHeading": true,
+  "showLineNumber": true,
+  "useTab": false
+}
